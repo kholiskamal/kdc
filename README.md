@@ -1,2 +1,3 @@
-# kdc
-kado cinta
+# kado
+# kado
+# kado
